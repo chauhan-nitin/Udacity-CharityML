@@ -13,11 +13,10 @@ Template code is provided in the finding_donors.ipynb notebook file. You will al
 ### Execute
 In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
 
-ipython notebook finding_donors.ipynb
-or
+ipython notebook finding_donors.ipynb <br>
 
 jupyter notebook finding_donors.ipynb
-This will open the iPython Notebook software and project file in your browser.
+
 
 ### Data Description
 The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.
