@@ -10,13 +10,8 @@ NumPy, pandas, scikit-learn (v0.17), Matplotlib
 Code
 Template code is provided in the finding_donors.ipynb notebook file. You will also be required to use the included visuals.py Python file and the census.csv dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in visuals.py is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
-### Execute
-In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
-
-ipython notebook finding_donors.ipynb <br>
-
-jupyter notebook finding_donors.ipynb
-
+### Code File
+Open file jupyter notebook finding_donors.ipynb
 
 ### Data Description
 The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.
