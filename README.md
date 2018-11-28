@@ -5,14 +5,14 @@
 
 * ```Solution:``` Using Data Exploration identify any skewness in the features since it affects understanding of the data summary. Normalized the continuous varibale, preprocessed and cleaned the data. Created a baseline model and evaluated it against a model using feature selection.
 
+* ```Result:``` Using the following software and Python libraries: NumPy, Pandas, Scikit-Learn (v0.17), Matplotlib. Thus, as a result of above approach we concluded by listing out customers which are likely to donate and would be suitable for the charity organization to approach them. Also, we could estimate the amount of donation the charity could collect from each customer.
+
 ### Software and Libraries
 This project uses the following software and Python libraries: <br>
 NumPy, pandas, scikit-learn (v0.17), Matplotlib
 
 Code
 Template code is provided in the finding_donors.ipynb notebook file. You will also be required to use the included visuals.py Python file and the census.csv dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in visuals.py is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
-
-* ```Result:``` Using the following software and Python libraries: NumPy, Pandas, Scikit-Learn (v0.17), Matplotlib. Thus, as a result of above approach we concluded by listing out customers which are likely to donate and would be suitable for the charity organization to approach them. Also, we could estimate the amount of donation the charity could collect from each customer.
 
 ### Code File
 Open file jupyter notebook finding_donors.ipynb
