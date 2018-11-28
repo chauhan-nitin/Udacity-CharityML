@@ -1,7 +1,9 @@
 # Data Scientist Nanodegree
 ## Supervised Learning
-1. Project: Finding Donors for CharityML
-2. Description: CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML has brought you on board to help build an algorithm to best identify potential donors and reduce overhead cost of sending mail. Your goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
+
+* ```Challenge:``` Udacity Data Scientist Nanodegree project for supervised learning titled as 'Finding Donors for CharityML' is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. 
+
+* ```Solution:``` Using Data Exploration identify any skewness in the features since it affects understanding of the data summary. Normalized the continuous varibale, preprocessed and cleaned the data. Created a baseline model and evaluated it against a model using feature selection.
 
 ### Software and Libraries
 This project uses the following software and Python libraries: <br>
@@ -9,6 +11,8 @@ NumPy, pandas, scikit-learn (v0.17), Matplotlib
 
 Code
 Template code is provided in the finding_donors.ipynb notebook file. You will also be required to use the included visuals.py Python file and the census.csv dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in visuals.py is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+
+* ```Result:``` Using the following software and Python libraries: NumPy, Pandas, Scikit-Learn (v0.17), Matplotlib. Thus, as a result of above approach we concluded by listing out customers which are likely to donate and would be suitable for the charity organization to approach them. Also, we could estimate the amount of donation the charity could collect from each customer.
 
 ### Code File
 Open file jupyter notebook finding_donors.ipynb
